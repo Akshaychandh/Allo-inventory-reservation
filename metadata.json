@@ -1,0 +1,6 @@
+{
+  "name": "Allo Inventory Reservation",
+  "description": "An inventory and order-fulfillment platform with concurrency-safe stock reservations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
